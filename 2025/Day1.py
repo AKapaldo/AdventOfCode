@@ -1,4 +1,3 @@
-numbers = list(range(0, 99))
 start = 50
 password = 0
 
